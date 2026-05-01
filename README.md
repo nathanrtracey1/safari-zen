@@ -7,7 +7,7 @@ A macOS Tahoe / Safari 26 inspired theme for Zen Browser. Applies Apple's Liquid
 Paste this repo URL in Sine:
 
 ```
-https://github.com/YOUR_USERNAME/safari-zen
+https://github.com/nathanrtracey1/safari-zen
 ```
 
 ## What it does
